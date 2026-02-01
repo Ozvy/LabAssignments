@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab1_ewhittington/Lab1_ewhittington.vcxproj" Id="5f3bead1-bd17-459f-a722-9d78aa7219b0" />
+  <Project Path="Lab2_ewhittington/Lab2_ewhittington.vcxproj" Id="ee554f02-869e-4a71-a07c-d2d975eec0bd" />
+</Solution>
