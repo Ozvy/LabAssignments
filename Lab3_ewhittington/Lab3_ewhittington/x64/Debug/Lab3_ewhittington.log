@@ -1,0 +1,3 @@
+﻿  Lab3_ewhittington.cpp
+C:\Users\Ender\source\repos\LabAssignments\Lab3_ewhittington\Lab3_ewhittington\Lab3_ewhittington.cpp(43,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Lab3_ewhittington.vcxproj -> C:\Users\Ender\source\repos\LabAssignments\Lab3_ewhittington\x64\Debug\Lab3_ewhittington.exe
