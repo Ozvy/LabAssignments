@@ -17,9 +17,10 @@ int main() {
 	std::cout << "1. Calculate the Area of a Rectangle" << std::endl;
 	std::cout << "2. Calculate the Area of a Circle" << std::endl;
 	std::cout << "3. Quit" << std::endl;
-	std::cout << "Please makes a menu selection:";
+	std::cout << "Please make a menu selection:";
 
 	std::cin >> menuSelection;
+
 	if (menuSelection == 1) {
 		float length;
 		float width;
@@ -46,6 +47,7 @@ int main() {
 	else if (menuSelection == 3) {
 		exit(0);
 	}
-
-
+	else {
+		std::cout << "Please enter a number from the menu provided.";
+	}
 }
