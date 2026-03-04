@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F24A3E18-42E8-46D3-8537-6C6DDF0923CA}|Lab7_ewhittington\\Lab7_ewhittington.vcxproj|C:\\Users\\Ender\\Downloads\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24A3E18-42E8-46D3-8537-6C6DDF0923CA}|Lab7_ewhittington\\Lab7_ewhittington.vcxproj|C:\\Users\\Ender\\Downloads\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24A3E18-42E8-46D3-8537-6C6DDF0923CA}|Lab7_ewhittington\\Lab7_ewhittington.vcxproj|C:\\Users\\Ender\\Downloads\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24A3E18-42E8-46D3-8537-6C6DDF0923CA}|Lab7_ewhittington\\Lab7_ewhittington.vcxproj|C:\\Users\\Ender\\Downloads\\Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24A3E18-42E8-46D3-8537-6C6DDF0923CA}|Lab7_ewhittington\\Lab7_ewhittington.vcxproj|C:\\Users\\Ender\\Downloads\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab5_ewhittington\\Lab5_ewhittington\\Lab5_ewhittington.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Ender\\Downloads\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Source.cpp",
+              "ToolTip": "C:\\Users\\Ender\\Downloads\\Source.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T03:54:02.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cpp",
+              "DocumentMoniker": "C:\\Users\\Ender\\Downloads\\Account.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Account.cpp",
+              "ToolTip": "C:\\Users\\Ender\\Downloads\\Account.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Account.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAArwCQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T03:56:56.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.h",
+              "DocumentMoniker": "C:\\Users\\Ender\\Downloads\\Account.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Account.h",
+              "ToolTip": "C:\\Users\\Ender\\Downloads\\Account.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Account.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T03:56:57.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.h",
+              "DocumentMoniker": "C:\\Users\\Ender\\Downloads\\Customer.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Customer.h",
+              "ToolTip": "C:\\Users\\Ender\\Downloads\\Customer.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Customer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T03:57:35.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab5_ewhittington.cpp",
+              "DocumentMoniker": "C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab5_ewhittington\\Lab5_ewhittington\\Lab5_ewhittington.cpp",
+              "RelativeDocumentMoniker": "..\\Lab5_ewhittington\\Lab5_ewhittington\\Lab5_ewhittington.cpp",
+              "ToolTip": "C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab5_ewhittington\\Lab5_ewhittington\\Lab5_ewhittington.cpp",
+              "RelativeToolTip": "..\\Lab5_ewhittington\\Lab5_ewhittington\\Lab5_ewhittington.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T03:15:52.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cpp",
+              "DocumentMoniker": "C:\\Users\\Ender\\Downloads\\Customer.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Customer.cpp",
+              "ToolTip": "C:\\Users\\Ender\\Downloads\\Customer.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Customer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T03:57:48.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
