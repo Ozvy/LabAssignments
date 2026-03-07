@@ -1,0 +1,6 @@
+﻿  Exercise1_ewhittington.cpp
+C:\Users\Ender\source\repos\LabAssignments\Exercise1_ewhittington\Exercise1_ewhittington\Func_Exercise1.h(15,12): warning C4101: 'UPC': unreferenced local variable
+  (compiling source file 'Exercise1_ewhittington.cpp')
+  
+C:\Users\Ender\source\repos\LabAssignments\Exercise1_ewhittington\Exercise1_ewhittington\Exercise1_ewhittington.cpp(24,6): warning C4101: 'upc': unreferenced local variable
+  Exercise1_ewhittington.vcxproj -> C:\Users\Ender\source\repos\LabAssignments\Exercise1_ewhittington\x64\Debug\Exercise1_ewhittington.exe
