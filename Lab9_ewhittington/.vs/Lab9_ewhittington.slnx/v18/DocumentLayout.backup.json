@@ -3,13 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab9_ewhittington\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{445A6616-7963-4947-8FAD-28699D80674B}|Lab9_ewhittington\\Lab9_ewhittington.vcxproj|C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\Lab7_ewhittington\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{445A6616-7963-4947-8FAD-28699D80674B}|Lab9_ewhittington\\Lab9_ewhittington.vcxproj|C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\Lab7_ewhittington\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{445A6616-7963-4947-8FAD-28699D80674B}|Lab9_ewhittington\\Lab9_ewhittington.vcxproj|C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\Lab7_ewhittington\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\Lab7_ewhittington\\Account.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,46 +18,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Account.cpp",
-              "DocumentMoniker": "C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\Lab7_ewhittington\\Account.cpp",
-              "RelativeDocumentMoniker": "..\\Lab7_ewhittington\\Lab7_ewhittington\\Account.cpp",
-              "ToolTip": "C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\Lab7_ewhittington\\Account.cpp",
-              "RelativeToolTip": "..\\Lab7_ewhittington\\Lab7_ewhittington\\Account.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-12T17:48:19.596Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Account.h",
               "DocumentMoniker": "C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\Lab7_ewhittington\\Account.h",
               "RelativeDocumentMoniker": "..\\Lab7_ewhittington\\Lab7_ewhittington\\Account.h",
               "ToolTip": "C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\Lab7_ewhittington\\Account.h",
               "RelativeToolTip": "..\\Lab7_ewhittington\\Lab7_ewhittington\\Account.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAABvAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-12T19:11:23.979Z",
+              "WhenOpened": "2026-04-12T19:47:57.655Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\Lab7_ewhittington\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Lab7_ewhittington\\Lab7_ewhittington\\Source.cpp",
-              "ToolTip": "C:\\Users\\Ender\\source\\repos\\LabAssignments\\Lab7_ewhittington\\Lab7_ewhittington\\Source.cpp",
-              "RelativeToolTip": "..\\Lab7_ewhittington\\Lab7_ewhittington\\Source.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-12T17:45:42.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
