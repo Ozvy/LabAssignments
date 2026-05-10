@@ -1,0 +1,7 @@
+﻿  CatsAndCougars.cpp
+  Engine.cpp
+C:\Users\Ender\source\repos\LabAssignments\Exercise3_ewhittington\Exercise3\Utility.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Engine.cpp')
+  
+  Generating Code...
+  Exercise3.vcxproj -> C:\Users\Ender\source\repos\LabAssignments\Exercise3_ewhittington\x64\Debug\Exercise3.exe
